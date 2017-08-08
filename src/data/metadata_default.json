@@ -1,0 +1,18 @@
+[
+  { "name": "description", "content": "Devmen are higly skilled men and women with a passion for coding" },
+  { "name": "keywords", "content": "Developers, Front-end developers, Back-end developers, The best developers" },
+  { "name": "subject", "content": "We are Devmen. We are looking for Heroes to join our team of elite coders" },
+  { "name": "HandheldFriendly", "content": "true"},
+  { "name": "copyright", "content": "Devmen"},
+  { "name": "robots", "content": "index, follow"},
+  { "name": "viewport", "content": "width=device-width, initial-scale=1"},
+  { "name": "apple-mobile-web-app-title", "content": "_devmen"},
+  { "name": "apple-mobile-web-app-capable", "content": "yes"},
+  { "name": "apple-touch-fullscreen", "content": "yes"},
+  { "name": "apple-mobile-web-app-status-bar-style", "content": "black"},
+  { "name": "application-name", "content": "_devmen"},
+  { "name": "msapplication-TileColor", "content": "#000"},
+  { "http-equiv": "Page-Enter", "content": "RevealTrans(Duration=2.0,Transition=2)"},
+  { "http-equiv": "Page-Exit", "content": "RevealTrans(Duration=3.0,Transition=12)"},
+  { "http-equiv": "cleartype", "content": "on"}
+]

@@ -1,0 +1,157 @@
+[
+  {
+    "avatar": "/static/images/developers/chris.jpg",
+    "name": "Chris",
+    "fullName":"Chris Bogaards",
+    "age":"27",
+    "speciality":"Full-stack",
+    "availability": "By request",
+    "availability_label": "by_request",
+    "skillset": [
+      {
+        "name": "PHP",
+        "percentage": 100
+      },
+      {
+        "name": "Laravel",
+        "percentage": 100
+      },
+      {
+        "name": "Magento",
+        "percentage": 100
+      },
+      {
+        "name": "ReactJs",
+        "percentage": 90
+      },
+      {
+        "name": "AngularJs",
+        "percentage": 75
+      }
+    ]
+  },
+  {
+    "avatar": "/static/images/developers/jelle.jpg",
+    "name": "Jelle",
+    "fullName": "Jelle Verzijden",
+    "age": "32",
+    "speciality": "Front-end",
+    "availability": "Not available",
+    "availability_label": "not_available",
+    "skillset": [
+      {
+        "name": "html & Css",
+        "percentage": 100
+      },
+      {
+        "name": "Team Lead",
+        "percentage": 100
+      },
+      {
+        "name": "Magento",
+        "percentage": 100
+      },
+      {
+        "name": "ReactJs",
+        "percentage": 80
+      },
+      {
+        "name": "VueJs",
+        "percentage": 75
+      }
+    ]
+  },
+  {
+    "avatar": "/static/images/developers/anon.jpg",
+    "name": "John",
+    "fullName": "John Verzijden",
+    "age": "32",
+    "speciality": "PHP",
+    "availability": "Not available",
+    "availability_label": "not_available",
+    "skillset": [
+      {
+        "name": "Team Lead",
+        "percentage": 100
+      },
+      {
+        "name": "PHP",
+        "percentage": 100
+      },
+      {
+        "name": "Magento",
+        "percentage": 100
+      },
+      {
+        "name": "AngularJs",
+        "percentage": 75
+      },
+      {
+        "name": "API Interfaces",
+        "percentage": 75
+      }
+    ]
+  },
+  {
+    "avatar": "/static/images/developers/menno.jpg",
+    "name": "Menno",
+    "fullName": "Menno Boer",
+    "age": "32",
+    "speciality": "PHP",
+    "availability": "Available",
+    "availability_label": "available",
+    "skillset": [
+      {
+        "name": "PHP",
+        "percentage": 100
+      },
+      {
+        "name": "Magento",
+        "percentage": 100
+      },
+      {
+        "name": "API Interfaces",
+        "percentage": 80
+      },
+      {
+        "name": "Javascript",
+        "percentage": 70
+      },
+      {
+        "name": "Java",
+        "percentage": 50
+      }
+    ]
+  },
+  {
+    "avatar": "/static/images/developers/carlo.jpg",
+    "name": "Carlo",
+    "fullName": "Carlo Carels",
+    "age": "32",
+    "speciality": "Front-end",
+    "availability": "Available",
+    "availability_label": "available",
+    "skillset": [
+      {
+        "name": "HTML & CSS",
+        "percentage": 100
+      },
+      {
+        "name": "Magento",
+        "percentage": 100
+      },
+      {
+        "name": "Wordpress",
+        "percentage": 100
+      },
+      {
+        "name": "User Experience",
+        "percentage": 80
+      },
+      {
+        "name": "Javascript",
+        "percentage": 50
+      }
+    ]
+  }
+]

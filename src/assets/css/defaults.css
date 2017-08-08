@@ -1,0 +1,91 @@
+/* GENERAL */
+body {
+	font-family: 'Avenir', Helvetica, Arial, sans-serif;
+	-webkit-font-smoothing: antialiased;
+	-moz-osx-font-smoothing: grayscale;
+}
+
+a,
+.link {
+	color: black;
+	cursor: pointer;
+}
+
+a:hover,
+.link:hover {
+	text-decoration: underline;
+}
+
+.offscreen {
+	position: absolute;
+	z-index: -1;
+	left: -999999px;
+	top:  -999999px;
+}
+
+/* CONTENT BLOCKS */
+.container.content {
+	padding-top: 3em;
+	padding-bottom: 3em;
+}
+
+/* BUTTONS */
+.btn.btn-primary {
+	background-color: transparent;
+	border-radius: 0;
+	border-color: black;
+	color: black;
+}
+.btn.btn-primary:hover {
+	border-color: white;
+}
+
+.btn.btn-secondary {
+	background-color: black;
+	border-radius: 0;
+	border-color: black;
+	color: #fbe108;
+}
+.btn.btn-secondary:hover {
+	border-color: #fbe108;
+	background-color: #fbe108;
+	color: black;
+
+}
+
+.btn.btn-third {
+	background-color: black;
+	border-radius: 0;
+	border-color: black;
+	color: white;
+}
+.btn.btn-third:hover {
+	border-color: white;
+	background-color: white;
+	color: black;
+
+}
+
+/* THEMES */
+.theme-black {
+	background-color: black;
+	color: white;
+}
+
+.theme-black a,
+.theme-black .link {
+	color: #fbe108;
+}
+
+.theme-black a:hover,
+.theme-black .link:hover {
+	color: white;
+}
+.theme-yellow {
+	background-color: #fbe108;
+	color: black;
+}
+.theme-grey {
+	background-color: #efefef;
+	color: black;
+}

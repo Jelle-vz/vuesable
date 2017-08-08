@@ -1,0 +1,38 @@
+[
+  {
+    "name": "Nationale Nederlanden",
+    "src": "/static/images/clients/nn.jpg"
+  },
+  {
+    "name": "PON",
+    "src": "/static/images/clients/pon.jpg"
+  },
+  {
+    "name": "Zilveren kruis",
+    "src": "/static/images/clients/zilveren-kruis.png"
+  },
+  {
+    "name": "Care & Able",
+    "src": "/static/images/clients/care-and-able.jpg"
+  },
+  {
+    "name": "Belastingdienst",
+    "src": "/static/images/clients/belastingdienst.png"
+  },
+  {
+    "name": "Boretti",
+    "src": "/static/images/clients/boretti.png"
+  },
+  {
+    "name": "Macaw",
+    "src": "/static/images/clients/macaw.png"
+  },
+  {
+    "name": "Service apotheek",
+    "src": "/static/images/clients/sa-logo.png"
+  },
+  {
+    "name": "Sanoma",
+    "src": "/static/images/clients/sanoma.png"
+  }
+]
